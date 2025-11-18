@@ -76,7 +76,7 @@ Software Engineering Student (Academic Reserves track) and **Machine Learning Sp
 
 ## 🔗 Connect with me
 
-[**LinkedIn**](*Your-LinkedIn-URL*) | [**omerassayga225@gmail.com**](mailto:omerassayga225@gmail.com) 
+[**LinkedIn**](*Your-LinkedIn-URL*) | [**omer.asayga2205@gmail.com**](mailto:omerassayga225@gmail.com) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsayagOmer&show_icons=true&theme=radical" alt="Omer's GitHub Stats" />
